@@ -2,7 +2,7 @@
 
 __author__ = "ACE Faculty"
 __version__ = "1.0.0"
-__credits__ = ""
+__credits__ = "NAVRAJ SINGH"
 
 from payee.payee import Payee
 
